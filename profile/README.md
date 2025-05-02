@@ -2,6 +2,6 @@
 **Levitate with us.**  
 *Transcend gravity.*
 
-## Órbitas Activas 🛸
+### Active Orbits   🛸
 - **Factx** – Effortless electronic invoicing.  
 - **SisDocx** – *Coming soon...*
